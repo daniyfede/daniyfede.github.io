@@ -10848,7 +10848,19 @@ a.text-dark:focus {
   margin-bottom: 30px;
 }
 
+.hide {
+  display: none;
+}
+
 @media (min-width: 768px) {
+
+  .story2 {
+    display: none;
+  }
+  .story2.hide {
+    display: block;
+  }
+
   .timeline::after {
     position: absolute;
     content: "";
