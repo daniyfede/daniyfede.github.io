@@ -2716,15 +2716,15 @@ fieldset:disabled a.btn {
 
 .btn-primary:hover {
   color: #fff;
-  background-color: #d1671b;
-  border-color: #c5611a;
+  background-color: #6a9db7;
+  border-color: #6a9db7;
 }
 
 .btn-primary:focus,
 .btn-primary.focus {
   color: #fff;
-  background-color: #d1671b;
-  border-color: #c5611a;
+  background-color: #6a9db7;
+  border-color: #6a9db7;
   box-shadow: 0 0 0 0.2rem rgba(232, 142, 77, 0.5);
 }
 
