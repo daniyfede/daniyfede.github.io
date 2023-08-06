@@ -31,7 +31,7 @@
     // Modal Video
     $(document).ready(function () {
         var $videoSrc;
-        $('.btn-play').click(function () {
+        $('.video-modal-toggle').click(function () {
             $videoSrc = $(this).data("src");
         });
         console.log($videoSrc);
